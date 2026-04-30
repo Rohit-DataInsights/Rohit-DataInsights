@@ -1,16 +1,46 @@
-## Hi there 👋
+## Hi there 👋 I'm Rohit Kumar
 
-<!--
-**Rohit-DataInsights/Rohit-DataInsights** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring Data Analyst**
+📊 Passionate about turning data into actionable insights
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+* 🔭 I’m currently working on **Data Analytics projects**
+* 🌱 I’m currently learning **Advanced Excel, SQL, Python & Power BI**
+* 👯 I’m looking to collaborate on **Data Analysis & Visualization projects**
+* 🤔 I’m looking for help with **real-world datasets & problem solving**
+* 💬 Ask me about **Excel, SQL, Power BI basics**
+* 📫 How to reach me: **(Add your email / LinkedIn here)**
+* 😄 Pronouns: **He/Him**
+* ⚡ Fun fact: **I enjoy turning messy data into meaningful insights**
+
+---
+
+### 🛠️ Skills
+
+* 📊 Excel
+* 🗄️ SQL
+* 🐍 Python
+* 📈 Power BI
+
+---
+
+### 📌 Projects
+
+* 📊 Sales Data Analysis
+* 📈 Dashboard using Power BI
+* 🛒 Online Shopping Database (SQL)
+
+---
+
+### 🚀 Goals
+
+* Become a professional Data Analyst
+* Build strong real-world projects
+* Get placed in a reputed company
+
+---
+
+⭐ **Always Learning | Always Growing**
