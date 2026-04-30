@@ -12,7 +12,9 @@
 * 👯 I’m looking to collaborate on **Data Analysis & Visualization projects**
 * 🤔 I’m looking for help with **real-world datasets & problem solving**
 * 💬 Ask me about **Excel, SQL, Power BI basics**
-* 📫 How to reach me: **(Add your email / LinkedIn here)**
+* 📫 How to reach me: **(rk6792255@gmail.com / www.linkedin.com/in/rohit-kumar-48778036a
+
+)**
 * 😄 Pronouns: **He/Him**
 * ⚡ Fun fact: **I enjoy turning messy data into meaningful insights**
 
